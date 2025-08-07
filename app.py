@@ -10,3 +10,7 @@ def multiply(a,b):
 def divison(a,b):
     return a/b
 
+
+def reminder(a,b):
+    return a%b
+
