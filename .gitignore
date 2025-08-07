@@ -135,8 +135,8 @@ celerybeat.pid
 *.sage.py
 
 
-shivam/
-chole/
+C:\Users\shiva\OneDrive\Desktop\practice_git\chole
+C:\Users\shiva\OneDrive\Desktop\practice_git\shivam
 
 # Environments
 .env
