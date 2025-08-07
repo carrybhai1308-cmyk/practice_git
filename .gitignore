@@ -134,11 +134,8 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
-
-C:\Users\shiva\OneDrive\Desktop\practice_git\chole
-C:\Users\shiva\OneDrive\Desktop\practice_git\shivam
-C:\Users\shiva\OneDrive\Desktop\practice_git\pinku
-C:\Users\shiva\OneDrive\Desktop\practice_git\shivu
+one/
+two/
 
 # Environments
 .env
